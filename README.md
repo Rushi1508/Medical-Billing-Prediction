@@ -1,7 +1,5 @@
 # Medical-Billing-Prediction
 
-# 🏥 Medical Billing Prediction – ML Regression Project
-
 This project builds a machine learning pipeline to predict medical billing amounts based on patient, diagnosis, and hospital visit data using a synthetic dataset of 55,000+ records.
 
 ## 📊 Project Summary
